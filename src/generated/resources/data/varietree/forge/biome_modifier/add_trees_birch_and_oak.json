@@ -1,0 +1,6 @@
+{
+	"biomes": "minecraft:forest",
+	"features": "varietree:trees_birch_and_oak",
+	"step": "vegetal_decoration",
+	"type": "forge:add_features"
+}

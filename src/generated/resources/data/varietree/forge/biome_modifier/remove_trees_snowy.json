@@ -1,0 +1,5 @@
+{
+	"biomes": "minecraft:snowy_plains",
+	"features": "minecraft:trees_snowy",
+	"type": "forge:remove_features"
+}

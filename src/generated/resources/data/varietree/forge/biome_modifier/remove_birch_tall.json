@@ -1,0 +1,5 @@
+{
+	"biomes": "minecraft:old_growth_birch_forest",
+	"features": "minecraft:birch_tall",
+	"type": "forge:remove_features"
+}

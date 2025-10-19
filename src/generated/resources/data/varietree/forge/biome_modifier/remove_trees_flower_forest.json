@@ -1,0 +1,5 @@
+{
+	"biomes": "minecraft:flower_forest",
+	"features": "minecraft:trees_flower_forest",
+	"type": "forge:remove_features"
+}

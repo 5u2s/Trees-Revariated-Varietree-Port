@@ -1,0 +1,6 @@
+{
+	"biomes": "minecraft:taiga",
+	"features": "varietree:trees_taiga",
+	"step": "vegetal_decoration",
+	"type": "forge:add_features"
+}

@@ -1,0 +1,20 @@
+{
+	"config": {
+		"default": "minecraft:spruce_on_snow",
+		"features": [
+			{
+				"chance": 0.25,
+				"feature": "minecraft:pine_on_snow"
+			},
+			{
+				"chance": 0.25,
+				"feature": "varietree:xmas_spruce_on_snow"
+			},
+			{
+				"chance": 0.25,
+				"feature": "varietree:candle_spruce_on_snow"
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

@@ -1,0 +1,5 @@
+{
+	"biomes": "minecraft:taiga",
+	"features": "minecraft:trees_taiga",
+	"type": "forge:remove_features"
+}

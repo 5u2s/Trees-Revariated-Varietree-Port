@@ -1,0 +1,5 @@
+{
+	"biomes": "minecraft:grove",
+	"features": "minecraft:trees_grove",
+	"type": "forge:remove_features"
+}

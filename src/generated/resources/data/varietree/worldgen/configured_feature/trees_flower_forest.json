@@ -1,0 +1,24 @@
+{
+	"config": {
+		"default": "minecraft:oak_bees_002",
+		"features": [
+			{
+				"chance": 0.10000000149011612,
+				"feature": "minecraft:birch_bees_002"
+			},
+			{
+				"chance": 0.10000000149011612,
+				"feature": "varietree:lollipop_birch_002"
+			},
+			{
+				"chance": 0.30000001192092896,
+				"feature": "varietree:short_oak_002"
+			},
+			{
+				"chance": 0.10000000149011612,
+				"feature": "minecraft:fancy_oak_bees_002"
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

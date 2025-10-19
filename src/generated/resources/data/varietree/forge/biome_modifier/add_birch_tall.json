@@ -1,0 +1,6 @@
+{
+	"biomes": "minecraft:old_growth_birch_forest",
+	"features": "varietree:birch_tall",
+	"step": "vegetal_decoration",
+	"type": "forge:add_features"
+}

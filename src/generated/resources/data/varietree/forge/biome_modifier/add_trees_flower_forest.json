@@ -1,0 +1,6 @@
+{
+	"biomes": "minecraft:flower_forest",
+	"features": "varietree:trees_flower_forest",
+	"step": "vegetal_decoration",
+	"type": "forge:add_features"
+}

@@ -1,0 +1,32 @@
+{
+	"config": {
+		"default": "minecraft:oak_bees_0002",
+		"features": [
+			{
+				"chance": 0.10000000149011612,
+				"feature": "varietree:lollipop_birch_0002"
+			},
+			{
+				"chance": 0.10000000149011612,
+				"feature": "minecraft:birch_bees_0002"
+			},
+			{
+				"chance": 0.10000000149011612,
+				"feature": "minecraft:fancy_oak_bees_0002"
+			},
+			{
+				"chance": 0.10000000149011612,
+				"feature": "varietree:sandwich_oak_0002"
+			},
+			{
+				"chance": 0.20000000298023224,
+				"feature": "varietree:lollipop_oak_0002"
+			},
+			{
+				"chance": 0.30000001192092896,
+				"feature": "varietree:short_oak_0002"
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

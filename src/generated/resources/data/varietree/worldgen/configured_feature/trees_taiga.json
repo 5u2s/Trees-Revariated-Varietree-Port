@@ -1,0 +1,16 @@
+{
+	"config": {
+		"default": "minecraft:spruce_checked",
+		"features": [
+			{
+				"chance": 0.3333333432674408,
+				"feature": "minecraft:pine_checked"
+			},
+			{
+				"chance": 0.3333333432674408,
+				"feature": "varietree:candle_spruce"
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

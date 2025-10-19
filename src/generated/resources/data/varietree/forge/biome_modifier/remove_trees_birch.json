@@ -1,0 +1,5 @@
+{
+	"biomes": "minecraft:windswept_hills",
+	"features": "minecraft:trees_windswept_hills",
+	"type": "forge:remove_features"
+}

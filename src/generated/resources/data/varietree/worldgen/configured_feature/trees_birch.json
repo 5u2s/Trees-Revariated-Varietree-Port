@@ -1,0 +1,12 @@
+{
+	"config": {
+		"default": "minecraft:birch_bees_0002",
+		"features": [
+			{
+				"chance": 0.5,
+				"feature": "varietree:rod_birch_0002"
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

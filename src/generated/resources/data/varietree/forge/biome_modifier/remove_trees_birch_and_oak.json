@@ -1,0 +1,5 @@
+{
+	"biomes": "minecraft:forest",
+	"features": "minecraft:trees_birch_and_oak",
+	"type": "forge:remove_features"
+}
